@@ -14,3 +14,14 @@ This Age Calculator is a simple web application that allows users to calculate t
 
 ✅ Error Handling – Shows a validation message for invalid or future dates.
 
+### 📋 **How It Works:**
+
+1. 🗓️ **Enter Date of Birth:**  
+   Users enter their **date of birth** using the date input field.
+
+2. 🧮 **Automatic Calculation:**  
+   The app **automatically calculates** the exact age based on the **current date**.
+
+3. 📊 **Dynamic Result Display:**  
+   The result is displayed **dynamically**, showing **years**, **months**, and **days** in an easy-to-read format. 
+
