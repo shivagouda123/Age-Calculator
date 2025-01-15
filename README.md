@@ -26,3 +26,13 @@ This Age Calculator is a simple web application that allows users to calculate t
 3. 📊 **Dynamic Result Display:**  
    The result is displayed **dynamically**, showing **years**, **months**, and **days** in an easy-to-read format. 
 
+### 🚀 **How to Use the App:**
+
+1. 🗓️ **Enter Your Date of Birth:**  
+   Type your **date of birth** in the input field provided.
+
+2. 🎯 **Click the "Calculate Age" Button:**  
+   Press the **"Calculate Age"** button to process your input.
+
+3. 📊 **View Your Age:**  
+   The app will display your **age in years, months, and days** instantly on the screen.
